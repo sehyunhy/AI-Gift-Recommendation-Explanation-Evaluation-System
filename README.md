@@ -9,7 +9,7 @@
 > **A within-subject experimental platform for evaluating AI-generated gift recommendation explanations using Latin Square design**
 
 This research platform measures user responses to three types of AI-generated gift recommendation explanations through cognitive UX scales, providing insights into the effectiveness of different explanation strategies in e-commerce contexts.
-
+- Period: 2025.07 ~ 2026.02
 ## 🎯 Research Objectives
 
 - **Comparative Analysis**: Evaluate three distinct explanation types for AI gift recommendations
